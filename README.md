@@ -352,6 +352,6 @@ inmediatamente.
 
 ## 10. Notas de versión
 
-Esta herramienta está creada por el departamento I3D-BC de la BNR y está orientada a su uso propio, pero siempre es bueno poder compartir el código y el conocimiento al resto del mundo 👨‍✈️.
+Esta herramienta está creada por el departamento xxx de xxx y está orientada a su uso propio, pero siempre es bueno poder compartir el código y el conocimiento al resto del mundo 👨‍✈️.
 
 Panoramix, 24 de marzo de 2026
